@@ -189,13 +189,18 @@ footer{
 }
 .foot-pannel2{
     background-color: #222f3d;
-    color:white;
+    /* color:white; */
     height:300px;
     display:flex;
     justify-content: space-evenly;
 }
 ul{
     margin-top:20px;
+}
+ul p{
+    font-size: 1rem;
+    font-weight: 700;
+    color:white;
 }
 ul a {
     display:block;
